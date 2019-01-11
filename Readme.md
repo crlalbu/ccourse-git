@@ -3,5 +3,5 @@
 modificando o arquivo.
 
 
-Teste [www.pucgoias.edu.br]:(http://www.pucgoias.edu.br)
+Teste [www.pucgoias.edu.br](http://www.pucgoias.edu.br)
 nova linha
